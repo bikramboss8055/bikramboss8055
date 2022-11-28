@@ -14,7 +14,7 @@
 
 📧 Email - duttabikram260@gmail.com
 
-💼 Portfolio - [https://bikramboss8055.github.io](https://bikramboss8055.github.io/)
+
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikram-dutta-6a482523a/)
