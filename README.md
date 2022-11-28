@@ -45,6 +45,7 @@
   
 <div align="center">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=bikramboss8055&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikramboss8055&show_icons=true" height="255px" width="70%"/>
 </div>
 
 
