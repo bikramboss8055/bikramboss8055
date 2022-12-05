@@ -48,8 +48,8 @@
 
 <div >
   <img  align="center" alt="Coding" width="400"  src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" > 
-   <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=bikramboss8055&theme=tokyonight&border_radius=5" alt="bikramboss8055" height="250px" width="47%" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=bikramboss8055&show_icons=true&theme=tokyonight&border_radus=0" height="250px" width="47%"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bikramboss8055&theme=tokyonight&border_radius=5" alt="bikramboss8055" height="250px" width="47%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikramboss8055&show_icons=true&theme=tokyonight&border_radus=0" height="250px" width="47%"/>
  
 </div>
   
