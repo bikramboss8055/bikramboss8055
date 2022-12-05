@@ -48,7 +48,7 @@
 
 <div display="flex" >
   <div align="left">
-  <img  align="left" alt="Coding" width="47%" height="400px"  src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" > 
+  <img  align="left" alt="Coding" width="47%"  src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" > 
   </div>
 <div display="flex" align="right" >
      <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=bikramboss8055&theme=tokyonight&border_radius=5" alt="bikramboss8055" height="180px" width="47%"/>
