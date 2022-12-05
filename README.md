@@ -52,10 +52,10 @@
  
 </div>
   
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=bikramboss8055&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
   
-</div>
+</div> -->
 
 
 ![](https://github.com/bikramboss8055/bikramboss8055/blob/main/profile-3d-contrib/profile-night-green.svg)
