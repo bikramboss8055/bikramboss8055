@@ -52,7 +52,6 @@
   </div>
 <div display="flex" align="right" >
      <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=bikramboss8055&theme=tokyonight&border_radius=5" alt="bikramboss8055" height="180px" width="47%"/>
-  
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=bikramboss8055&show_icons=true&theme=tokyonight&border_radus=0" height="180px" width="47%" />
   </div>
  
