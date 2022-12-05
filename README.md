@@ -46,7 +46,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<div display="flex" justifyContent="space-between">
+<div display="flex" justify-content="space-between">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bikramboss8055&theme=tokyonight&border_radius=10" alt="bikramboss8055" height="250px" width="47%" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikramboss8055&show_icons=true&theme=tokyonight&border_radus=10" height="355px" width="50%"/>
  
