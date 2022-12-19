@@ -51,7 +51,7 @@
 
 ## 🙂More about me
 <div>
-   
+   <div><h5><i>Aspiring full stack developer.</i></h5></div>
 <div><h5><i>Learning more and more in coding.</i></h5></div>
 <div><h5><i>Bikes Riding.</i></h5></div>
 <div><h5><i>Loves to listen Music.</i></h5></div>
